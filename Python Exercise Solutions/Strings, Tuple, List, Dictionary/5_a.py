@@ -1,4 +1,4 @@
-str = input("Enter any word of sentence: ")
+str = input("Enter any word or sentence: ")
 count = 0
 for _ in str:
   count += 1
